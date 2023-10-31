@@ -1,2 +1,3 @@
 # ufcprediction
 Using XGbossted trees and logistic regression to predict ufc fights given fighter stats.
+I am using the "UFC/MMA Biggest Dataset With Differentials" dataset from Kaggle: 'https://www.kaggle.com/datasets/danmcinerney/mma-differentials-and-elo/code'. I used the author of the databases' code(Dan McInerney) to get features with the highest correlation to fight outcomes but used my own build of logistic regression. The highest score I got using scaled values was 0.6524, which is pretty much the same as the author's results using the tree-based approach. I have detailed some of the steps I took throughout and how I got better and better results. 
