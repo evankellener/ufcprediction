@@ -5,4 +5,4 @@ I am using the "UFC/MMA Biggest Dataset With Differentials" dataset from Kaggle:
 Using the SVM architecture, using the following features: 
 ['age', 'reach', 'precomp_avg_age_differential_vs_opp', 'precomp_change_avg_ground_strikes_attempts_per_min_differential_peak_vs_opp', 'precomp_head_strikes_def_vs_opp', 'precomp_avg_head_strikes_landed_per_min_differential_vs_opp', 'precomp_change_avg_elo_differential_vs_peak', 'precomp_change_elo_differential_vs_valley']
 
-I got an accuracy score of 0.789 which is essentially 79% accurate. 
+I got an accuracy score of 0.789 = 79% accuracy.
